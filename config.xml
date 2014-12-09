@@ -12,7 +12,7 @@
         Coursemeup - Connecting students with their future.
     </description>
 
-    <author href="http://www.coursemeup.com" email="administrador@coursemeup.com">
+    <author href="http://coursemeup.com" email="administrador@coursemeup.com">
         Administrador Coursemeup
     </author>
 
@@ -109,8 +109,8 @@
         <access origin="*" /> - a wildcard access tag allows access to all external resource.
         Otherwise, you can specify specific domains:
     -->
-    <access origin="http://www.coursemeup.com" subdomains="true" />
-    <content src="http://www.coursemeup.com" />
+    <access origin="http://coursemeup.com" subdomains="true" />
+    <content src="http://coursemeup.com" />
     <!--
         <access origin="http://phonegap.com" />                    - allow any secure requests to http://phonegap.com/
         <access origin="http://phonegap.com" subdomains="true" />  - same as above, but including subdomains, such as http://build.phonegap.com/
