@@ -20,7 +20,7 @@ var _base = "http://www.coursemeup.com/";
  *
  * @var {String}
  */
-var _api = "wp-content/plugins/json-api";
+var _api = "api";
 
 /**
  * Stores the initial landing page route.
@@ -28,7 +28,7 @@ var _api = "wp-content/plugins/json-api";
  * @see routing.json
  * @var {String}
  */
-var _home = '';
+var _home = 'home';
 
 /******************************************************************************
 * CONFIGURATION END - DO NOT EDIT LINES BELOW
