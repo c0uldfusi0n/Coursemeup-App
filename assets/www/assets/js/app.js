@@ -13,7 +13,7 @@
  *
  * @var {String}
  */
-var _base = "http://www.coursemeup.com/";
+var _base = "http://www.coursemeup.com";
 
 /**
  * Stores the app's API URI.
