@@ -13,14 +13,14 @@
  *
  * @var {String}
  */
-var _base = "http://www.coursemeup.com";
+var _base = "http://www.coursemeup.com/";
 
 /**
  * Stores the app's API URI.
  *
  * @var {String}
  */
-var _api = "api/json/";
+var _api = "wp-content/plugins/json-api";
 
 /**
  * Stores the initial landing page route.
@@ -28,7 +28,7 @@ var _api = "api/json/";
  * @see routing.json
  * @var {String}
  */
-var _home = 'home';
+var _home = '';
 
 /******************************************************************************
 * CONFIGURATION END - DO NOT EDIT LINES BELOW
