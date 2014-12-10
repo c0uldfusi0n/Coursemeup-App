@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="format-detection" content="telephone=no">
 	<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
-	<title>Coursemeup.com</title>
+	<title>Coursemeup</title>
 	<!-- CSS -->
 	<link href="assets/css/libs/fries-1.0.0.min.css" rel="stylesheet">
 	<link href="assets/css/libs/jquery.sidr.dark-1.1.1.min.css" rel="stylesheet">
@@ -51,13 +51,13 @@
 		<header class="action-bar fixed-top">
 			<a data-routing="news.recent" data-identifier="&amp;page=" data-tab="news" data-tpl="news" data-sidepanel="categories" data-puller="inc:1:1" class="app-icon action" disabled>
 				<i class="chevron" style="display: none"></i>
-				<i class="icon-coursemeup"></i>
+				<i class="icon-schwingenonline"></i>
 			</a>
-			<h1 class="title">Coursemeup.com</h1>
+			<h1 class="title">Coursemeup</h1>
 			<ul class="actions pull-right">
-				<li><a id="search" data-routing="internal.search.form" data-tpl="search" class="action" title="Pesquisa"><i class="icon-search"></i></a></li>
-				<li><a data-routing="function.showPreferencesActivity()" class="action" title="Preferências"><i class="icon-settings"></i></a></li>
-				<li><a data-routing="function.clearCache(true)" class="action" title="Limpar Cache"><i class="icon-trash"></i></a></li>
+				<li><a id="search" data-routing="internal.search.form" data-tpl="search" class="action" title="Suche"><i class="icon-search"></i></a></li>
+				<li><a data-routing="function.showPreferencesActivity()" class="action" title="Einstellungen"><i class="icon-settings"></i></a></li>
+				<li><a data-routing="function.clearCache(true)" class="action" title="Cache leeren"><i class="icon-trash"></i></a></li>
 			</ul>
 		</header>
 		<!-- ACTIONBAR -->
@@ -65,8 +65,8 @@
 		<!-- TABS -->
 		<nav class="tab-fixed">
 			<ul class="tab-inner">
-				<li id="news" class="active"><a href="http://www.coursemeup.com" data-tab="news" data-tpl="news" data-sidepanel="categories" data-puller="inc:1:1" class="tab">Página Inicial</a></li>
-				<li id="events"><a data-routing="events.index" data-tab="events" data-tpl="events" class="tab">Agenda</a></li>
+				<li id="home"><a data-routing="home.index" data-tab="home" data-tpl="home" class="tab">Página Inicial</a></li>
+				<li id="athletes"><a data-routing="athletes.index" data-tab="athletes" data-tpl="athletes" class="tab">Cursos</a></li>
 			</ul>
 		</nav>
 		<!-- TABS -->
@@ -76,7 +76,7 @@
 			<div id="scroller" class="cf">
 				<div id="mustache"></div>
 				<div id="pullUp">
-					<span class="pullUpIcon"></span><span class="pullUpLabel">A carregar...</span>
+					<span class="pullUpIcon"></span><span class="pullUpLabel">Ziehen zum Aktualisieren...</span>
 				</div>
 			</div>
 		</div>
