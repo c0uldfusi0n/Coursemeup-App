@@ -1,0 +1,37 @@
+<resources>
+
+	<string name="title_activity_preferences">Preferências</string>
+	<string name="pref_header_general">Geral</string>
+	<string name="pref_header_design">Design</string>
+	<string name="pref_title_color_scheme">Farbschema</string>
+
+	<string-array name="pref_color_scheme_titles">
+		<item>Holo Dark</item>
+		<item>Holo Light</item>
+	</string-array>
+	<string-array name="pref_color_scheme_values">
+		<item>holo_dark</item>
+		<item>holo_light</item>
+	</string-array>
+
+	<string name="pref_header_caching">Caching</string>
+	<string name="pref_title_cache_lifetime">Cache</string>
+
+	<string-array name="pref_cache_lifetime_titles">
+		<item>15 Minutos</item>
+		<item>30 Minutos</item>
+		<item>1 Hora</item>
+		<item>3 Horas</item>
+		<item>6 Horas</item>
+		<item>12 Horas</item>
+	</string-array>
+	<string-array name="pref_cache_lifetime_values">
+		<item>0.25</item>
+		<item>0.5</item>
+		<item>1</item>
+		<item>3</item>
+		<item>6</item>
+		<item>12</item>
+	</string-array>
+
+</resources>

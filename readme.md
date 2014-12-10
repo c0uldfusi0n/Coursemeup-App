@@ -1,0 +1,1 @@
+Please refer to the [wiki](https://github.com/MaddinXx/ch.schwingenonline.android/wiki).
