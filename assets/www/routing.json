@@ -6,13 +6,9 @@
 		"id": "get_post/?include=title,content,date,thumbnail&thumbnail_size=athleten-thumb&id=",
 		"slug": "get_post/?include=title,content,date,thumbnail&thumbnail_size=athleten-thumb&slug="
 	},
-	
-	"home": {
-		"index": "/"
-	},
 
 	"news":	{
-		"recent": "recent/news",
+		"recent": "",
 		"date": "get_date_posts/?include=id,title,excerpt&date="
 	},
 
