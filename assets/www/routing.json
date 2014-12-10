@@ -47,6 +47,6 @@
 	},
 	//coursemeup
 	"home": {
-		"index": "home/"
+		"index": "get_page_index/?id=1990"
 	}
 }

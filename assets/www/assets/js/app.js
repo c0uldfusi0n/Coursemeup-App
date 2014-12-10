@@ -28,7 +28,7 @@ var _api = "api";
  * @see routing.json
  * @var {String}
  */
-var _home = 'home';
+var _home = '';
 
 /******************************************************************************
 * CONFIGURATION END - DO NOT EDIT LINES BELOW
