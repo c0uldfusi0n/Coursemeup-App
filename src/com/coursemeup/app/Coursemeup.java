@@ -17,12 +17,12 @@
        under the License.
  */
 
-package ch.coursemeup.app;
+package com.coursemeup.app;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
 
-import ch.coursemeup.android.R;
+import com.coursemeup.android.R;
 
 public class Coursemeup extends DroidGap
 {

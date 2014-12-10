@@ -1,4 +1,4 @@
-package ch.coursemeup.app;
+package com.coursemeup.app;
 
 import java.util.List;
 
@@ -18,7 +18,7 @@ import android.preference.PreferenceFragment;
 import android.preference.PreferenceManager;
 import android.preference.RingtonePreference;
 import android.text.TextUtils;
-import ch.coursemeup.android.R;
+import com.coursemeup.android.R;
 
 /**
  * A {@link PreferenceActivity} that presents a set of application settings. On
