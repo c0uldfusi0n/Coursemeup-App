@@ -45,7 +45,7 @@
 		"index": "athleten/get_athlets/?dev=0",
 		"id": "?json=1&post_type=athleten&custom_fields=name,prename,birth,job,weight,size,verband,club,url,hobbies,vorbild,special,story&p="
 	},
-	//coursemeup
+	
 	"home": {
 		"index": "get_page/?slug=home"
 	}
