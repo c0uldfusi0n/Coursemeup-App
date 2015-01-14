@@ -47,6 +47,6 @@
 	},
 	
 	"home": {
-		"index": "get_page/?slug=home"
+		"index": "home"
 	}
 }
