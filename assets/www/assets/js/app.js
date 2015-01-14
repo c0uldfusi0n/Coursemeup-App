@@ -13,7 +13,7 @@
  *
  * @var {String}
  */
-var _base = "http://www.coursemeup.com";
+var _base = "http://www.coursemeup.com/new";
 
 /**
  * Stores the app's API URI.
@@ -28,7 +28,7 @@ var _api = "api";
  * @see routing.json
  * @var {String}
  */
-var _home = 'get_page/?slug=home';
+var _home = 'home';
 
 /******************************************************************************
 * CONFIGURATION END - DO NOT EDIT LINES BELOW
