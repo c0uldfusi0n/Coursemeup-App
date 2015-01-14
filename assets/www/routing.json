@@ -2,7 +2,7 @@
 	"info": "info?dev=0",
 
 	"post": {
-		"index": "get_posts/?include=id,title,excerpt",
+		"index": "home",
 		"id": "get_post/?include=title,content,date,thumbnail&thumbnail_size=athleten-thumb&id=",
 		"slug": "get_post/?include=title,content,date,thumbnail&thumbnail_size=athleten-thumb&slug="
 	},
